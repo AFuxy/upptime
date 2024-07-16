@@ -5,15 +5,19 @@ repo: upptime # The name of this repository
 sites:
   - name: AFuxy.com
     url: https://afuxy.com
+    icon: https://i.imgur.com/QD81Lxt.png
   - name: Panel
     url: https://panel.afuxy.com
   - name: your Spotify
     url: https://spotify.afuxy.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
+  - name: MC Showdown
     url: 85.215.65.51
     port: 25565
+    check: "tcp-ping"
+    ipv6: false
+  - name: Blacklist SMP
+    url: 85.215.65.51
+    port: 25599
     check: "tcp-ping"
     ipv6: false
 
@@ -29,8 +33,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
