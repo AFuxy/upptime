@@ -33,6 +33,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Panel
+      href: https://panal.afuxy.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
