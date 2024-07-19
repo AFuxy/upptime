@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-showdown",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "98.44%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 127,
     "timeDay": 160,
     "timeWeek": 127,
@@ -78,7 +78,7 @@
     "url": "85.215.65.51",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blacklist-smp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 125,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-19": 0
+    }
   }
 ]
