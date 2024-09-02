@@ -15,11 +15,11 @@ sites:
     port: 25565
     check: "tcp-ping"
     ipv6: false
-  - name: Blacklist SMP
-    url: 85.215.65.51
-    port: 25599
-    check: "tcp-ping"
-    ipv6: false
+  #- name: Blacklist SMP
+  #  url: 85.215.65.51
+  #  port: 25599
+  #  check: "tcp-ping"
+  #  ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -34,7 +34,7 @@ status-website:
     - title: Status
       href: /
     - title: Panel
-      href: https://panal.afuxy.com
+      href: https://panel.afuxy.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
