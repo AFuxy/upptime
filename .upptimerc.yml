@@ -8,6 +8,8 @@ sites:
     icon: https://i.imgur.com/QD81Lxt.png
   - name: Panel
     url: https://panel.afuxy.com
+  - name: ScaredBunny
+    url: https://scaredbunny.org
   - name: your Spotify
     url: https://spotify.afuxy.com
   - name: MC Showdown
