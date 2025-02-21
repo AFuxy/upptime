@@ -8,15 +8,15 @@ sites:
     icon: https://i.imgur.com/QD81Lxt.png
   - name: Panel
     url: https://panel.afuxy.com
-  - name: Caturra Social
-    url: https://caturra.social
+  #- name: Caturra Social
+  #  url: https://caturra.social
   - name: your Spotify
     url: https://spotify.afuxy.com
-  - name: MC Showdown
-    url: 85.215.65.51
-    port: 25565
-    check: "tcp-ping"
-    ipv6: false
+  #- name: MC Showdown
+  #  url: 85.215.65.51
+  #  port: 25565
+  #  check: "tcp-ping"
+  #  ipv6: false
   #- name: Blacklist SMP
   #  url: 85.215.65.51
   #  port: 25599
@@ -35,6 +35,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Caturra
+      href: https://status.caturra.social
     - title: Panel
       href: https://panel.afuxy.com
 
