@@ -30,6 +30,7 @@ status-website:
   #baseUrl: /upptime
   logoUrl: https://i.imgur.com/QD81Lxt.png
   name: AFuxy Status
+  themeUrl: https://status.afuxy.com/theme.css
   #introTitle: "Status"
   #introMessage: Welcome to the status page for all of my sites and game servers
   navbar:
