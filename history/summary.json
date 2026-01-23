@@ -4,18 +4,20 @@
     "url": "https://afuxy.com",
     "icon": "https://i.imgur.com/QD81Lxt.png",
     "slug": "a-fuxy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 150,
-    "timeWeek": 143,
-    "timeMonth": 161,
-    "timeYear": 156,
-    "dailyMinutesDown": {}
+    "time": 157,
+    "timeDay": 1166,
+    "timeWeek": 398,
+    "timeMonth": 224,
+    "timeYear": 162,
+    "dailyMinutesDown": {
+      "2026-01-23": 0
+    }
   },
   {
     "name": "Panel",
@@ -48,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/spotify.afuxy.com.ico",
     "slug": "your-spotify",
     "status": "up",
-    "uptime": "98.61%",
+    "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
