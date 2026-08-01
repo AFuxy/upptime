@@ -22,9 +22,9 @@
     "url": "https://panel.afuxy.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.afuxy.com.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.39%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.49%",
@@ -45,7 +45,8 @@
       "2026-04-09": 448,
       "2026-04-28": 124,
       "2026-06-10": 371,
-      "2026-07-29": 162
+      "2026-07-29": 162,
+      "2026-08-01": 0
     }
   },
   {
@@ -53,10 +54,10 @@
     "url": "https://spotify.afuxy.com",
     "icon": "https://icons.duckduckgo.com/ip3/spotify.afuxy.com.ico",
     "slug": "your-spotify",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.40%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.39%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "97.59%",
     "time": 456,
@@ -81,7 +82,8 @@
       "2026-04-09": 448,
       "2026-04-28": 124,
       "2026-06-10": 371,
-      "2026-07-29": 162
+      "2026-07-29": 162,
+      "2026-08-01": 0
     }
   }
 ]
