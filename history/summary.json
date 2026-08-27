@@ -22,15 +22,15 @@
     "url": "https://panel.afuxy.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.afuxy.com.ico",
     "slug": "panel",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "89.53%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "99.40%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "53.84%",
+    "uptimeWeek": "93.41%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "99.30%",
     "time": 482,
-    "timeDay": 591,
-    "timeWeek": 477,
+    "timeDay": 551,
+    "timeWeek": 481,
     "timeMonth": 493,
     "timeYear": 487,
     "dailyMinutesDown": {
@@ -47,7 +47,7 @@
       "2026-06-10": 371,
       "2026-07-29": 162,
       "2026-08-01": 338,
-      "2026-08-27": 151
+      "2026-08-27": 665
     }
   },
   {
@@ -55,16 +55,16 @@
     "url": "https://spotify.afuxy.com",
     "icon": "https://icons.duckduckgo.com/ip3/spotify.afuxy.com.ico",
     "slug": "your-spotify",
-    "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "89.55%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "97.49%",
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "53.85%",
+    "uptimeWeek": "93.41%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.40%",
     "time": 458,
-    "timeDay": 527,
-    "timeWeek": 468,
-    "timeMonth": 465,
+    "timeDay": 521,
+    "timeWeek": 474,
+    "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2025-09-01": 31,
@@ -85,7 +85,7 @@
       "2026-06-10": 371,
       "2026-07-29": 162,
       "2026-08-01": 338,
-      "2026-08-27": 151
+      "2026-08-27": 665
     }
   }
 ]
