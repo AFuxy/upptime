@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.afuxy.com.ico",
     "slug": "panel",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.72%",
+    "uptimeDay": "89.53%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.40%",
     "time": 482,
     "timeDay": 591,
     "timeWeek": 477,
@@ -47,7 +47,7 @@
       "2026-06-10": 371,
       "2026-07-29": 162,
       "2026-08-01": 338,
-      "2026-08-27": 0
+      "2026-08-27": 151
     }
   },
   {
@@ -56,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spotify.afuxy.com.ico",
     "slug": "your-spotify",
     "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "97.52%",
+    "uptime": "98.82%",
+    "uptimeDay": "89.55%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "97.49%",
     "time": 458,
     "timeDay": 527,
     "timeWeek": 468,
@@ -85,7 +85,7 @@
       "2026-06-10": 371,
       "2026-07-29": 162,
       "2026-08-01": 338,
-      "2026-08-27": 0
+      "2026-08-27": 151
     }
   }
 ]
