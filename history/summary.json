@@ -24,16 +24,16 @@
     "url": "https://panel.afuxy.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.afuxy.com.ico",
     "slug": "panel",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.51%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "87.04%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.48%",
     "time": 485,
-    "timeDay": 818,
-    "timeWeek": 510,
-    "timeMonth": 476,
+    "timeDay": 696,
+    "timeWeek": 504,
+    "timeMonth": 475,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2026-02-04": 267,
@@ -44,7 +44,7 @@
       "2026-07-29": 162,
       "2026-08-01": 338,
       "2026-08-27": 665,
-      "2026-10-21": 0
+      "2026-10-21": 187
     }
   },
   {
@@ -57,7 +57,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 461,
     "timeDay": 496,
     "timeWeek": 404,
